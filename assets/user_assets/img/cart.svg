@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.69" height="20" viewBox="0 0 20.69 20">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#084a83}
+        </style>
+    </defs>
+    <g id="prefix__shopping-cart" transform="translate(-12.803)">
+        <g id="prefix__Group_361" data-name="Group 361" transform="translate(17.784 15.243)">
+            <g id="prefix__Group_360" data-name="Group 360">
+                <path id="prefix__Path_138" d="M120.195 361.541a2.379 2.379 0 1 0 2.379 2.379 2.379 2.379 0 0 0-2.379-2.379z" class="prefix__cls-1" data-name="Path 138" transform="translate(-117.816 -361.541)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_363" data-name="Group 363" transform="translate(26.729 15.243)">
+            <g id="prefix__Group_362" data-name="Group 362">
+                <path id="prefix__Path_139" d="M308.8 361.541a2.379 2.379 0 1 0 2.379 2.379 2.379 2.379 0 0 0-2.379-2.379z" class="prefix__cls-1" data-name="Path 139" transform="translate(-306.42 -361.541)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_365" data-name="Group 365" transform="translate(12.803)">
+            <g id="prefix__Group_364" data-name="Group 364">
+                <path id="prefix__Path_140" d="M33.493 3.7H17.635l-.124-.653A4.052 4.052 0 0 0 13.348 0H13.3a.47.47 0 0 0-.5.435.47.47 0 0 0 .5.435h.05a3.121 3.121 0 0 1 3.2 2.306l1.611 8.4a2.885 2.885 0 0 0 2.939 2.131h9.912a.439.439 0 1 0 0-.87H21.1a1.9 1.9 0 0 1-1.954-1.437l-.273-1.392h11.176a1.974 1.974 0 0 0 1.908-1.262l.793-2.436H18.155l-.173-.87h15.041z" class="prefix__cls-1" data-name="Path 140" transform="translate(-12.803)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="213" height="197" viewBox="0 0 213 197">
+    <defs>
+        <style>
+            .cls-2{fill:#539ddb}
+        </style>
+    </defs>
+    <g id="Group_394" data-name="Group 394" transform="translate(-868 -1419)">
+        <path id="Rectangle_195" fill="#f4f4f4" d="M0 0H213V197H0z" data-name="Rectangle 195" transform="translate(868 1419)"/>
+        <g id="Source_code" data-name="Source code" transform="translate(938 1481)">
+            <path id="Path_155" d="M55.262 40.495V18H8v34.867a1.125 1.125 0 0 0 1.125 1.125h32.633a13.515 13.515 0 0 1 13.504-13.497zm-32.633-5.624h13.5v2.249h-13.5zm-4.5-2.249v-2.25h6.752v2.249zm11.754-9.187a1.125 1.125 0 1 1 1.249-1.872l3.376 2.249a1.124 1.124 0 0 1 0 1.872l-3.378 2.25a1.125 1.125 0 1 1-1.249-1.872l1.975-1.314zm-.5 9.187H27.13v-2.25h2.25zm-5.569-4.854l2.251-6.748a1.127 1.127 0 0 1 2.138.711l-2.251 6.748a1.127 1.127 0 0 1-2.138-.711zm-9.06 22.85a1.125 1.125 0 0 1-2.251 0V23.624a1.125 1.125 0 0 1 2.251 0zM17 24.748a1.125 1.125 0 0 1 .5-.936l3.376-2.249a1.125 1.125 0 1 1 1.249 1.872l-1.975 1.314 1.971 1.314a1.125 1.125 0 1 1-1.249 1.872L17.5 25.684a1.125 1.125 0 0 1-.5-.936zm7.877 21.37h-6.749v-2.249h6.752zm0-4.5h-2.248V39.37h2.251zm4.5 4.5H27.13v-2.249h2.25zm11.253-4.5h-13.5V39.37h13.5zm0-6.748h-2.247v-2.248h2.251zm2.251-2.249h10.13v2.249H42.884zm0 4.5h4.5v2.249h-4.5z" class="cls-2" data-name="Path 155" transform="translate(1.752 3.284)"/>
+            <path id="Path_156" d="M51.253 40a11.247 11.247 0 1 0 11.253 11.247A11.25 11.25 0 0 0 51.253 40zm-3.706 13.826a1.125 1.125 0 1 1-1.591 1.59l-3.376-3.373a1.124 1.124 0 0 1 0-1.59l3.376-3.374a1.125 1.125 0 1 1 1.591 1.59l-2.58 2.579zm3.683 3.262a1.125 1.125 0 0 1-1.1.908 1.068 1.068 0 0 1-.225-.022 1.125 1.125 0 0 1-.878-1.327L51.275 45.4a1.125 1.125 0 1 1 2.206.441zm5.319-1.675a1.125 1.125 0 1 1-1.591-1.59l2.58-2.576-2.58-2.579a1.125 1.125 0 1 1 1.591-1.59l3.376 3.374a1.124 1.124 0 0 1 0 1.59z" class="cls-2" data-name="Path 156" transform="translate(5.761 6.244)"/>
+            <path id="Path_157" d="M54.136 12H9.125A1.125 1.125 0 0 0 8 13.125V16.5h47.262v-3.375A1.125 1.125 0 0 0 54.136 12zM12.5 15.374h-2.249v-2.249H12.5zm4.5 0h-2.248v-2.249H17zm4.5 0h-2.247v-2.249H21.5z" class="cls-2" data-name="Path 157" transform="translate(1.752 2.337)"/>
+            <path id="Path_158" d="M6.5 63H2v-9h4.5v2.249H4.251v4.5H6.5z" class="cls-2" data-name="Path 158" transform="translate(1 7.991)"/>
+            <path id="Path_159" d="M20.5 63H16v-2.252h2.251v-4.5H16V54h4.5z" class="cls-2" data-name="Path 159" transform="translate(2.754 7.991)"/>
+            <path id="Path_160" d="M6 57h2.251v2.249H6z" class="cls-2" data-name="Path 160" transform="translate(1.501 8.365)"/>
+            <path id="Path_161" d="M10 57h2.251v2.249H10z" class="cls-2" data-name="Path 161" transform="translate(2.002 8.365)"/>
+            <path id="Path_162" d="M14 57h2.251v2.249H14z" class="cls-2" data-name="Path 162" transform="translate(2.503 8.365)"/>
+            <path id="Path_163" d="M60 2h2.251v6.748H60z" class="cls-2" data-name="Path 163" transform="translate(8.266 1)"/>
+            <path id="Path_164" d="M57.376 8.748h-1.125A2.25 2.25 0 0 1 54 6.5V4.249A2.25 2.25 0 0 1 56.251 2h1.125a2.25 2.25 0 0 1 2.251 2.249V6.5a2.25 2.25 0 0 1-2.251 2.248zm-1.125-4.5V6.5h1.125V4.249z" class="cls-2" data-name="Path 164" transform="translate(7.515 1)"/>
+            <path id="Path_165" d="M47.376 8.748h-1.125A2.25 2.25 0 0 1 44 6.5V4.249A2.25 2.25 0 0 1 46.251 2h1.125a2.25 2.25 0 0 1 2.251 2.249V6.5a2.25 2.25 0 0 1-2.251 2.248zm-1.125-4.5V6.5h1.125V4.249z" class="cls-2" data-name="Path 165" transform="translate(6.262 1)"/>
+            <path id="Path_166" d="M50 2h2.251v6.748H50z" class="cls-2" data-name="Path 166" transform="translate(7.013 1)"/>
+        </g>
+    </g>
+</svg>

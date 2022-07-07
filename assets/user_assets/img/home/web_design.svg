@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="213" height="197" viewBox="0 0 213 197">
+    <defs>
+        <style>
+            .cls-2{fill:#539ddb}
+        </style>
+    </defs>
+    <g id="Group_393" data-name="Group 393" transform="translate(-518 -1421)">
+        <path id="Rectangle_194" fill="#f4f4f4" d="M0 0H213V197H0z" data-name="Rectangle 194" transform="translate(518 1421)"/>
+        <g id="ux" transform="translate(594 1484)">
+            <path id="Path_146" d="M88.066 151l15.5 7.684 15.5-7.684zm0 0" class="cls-2" data-name="Path 146" transform="translate(-73.406 -129.791)"/>
+            <path id="Path_147" d="M90 391h3.972v3.928H90zm0 0" class="cls-2" data-name="Path 147" transform="translate(-76.213 -340.608)"/>
+            <path id="Path_148" d="M54.311 1.964A1.891 1.891 0 0 0 52.5 0H1.81A1.891 1.891 0 0 0 0 1.964v13.88h54.311zm-16.293 9.952H9.052a1.891 1.891 0 0 1-1.81-1.964 1.891 1.891 0 0 1 1.81-1.964h28.966a1.891 1.891 0 0 1 1.81 1.964 1.891 1.891 0 0 1-1.81 1.964zm0 0" class="cls-2" data-name="Path 148" transform="translate(3 3)"/>
+            <path id="Path_149" d="M119.057 250l-15.5-7.684L88.066 250zm0 0" class="cls-2" data-name="Path 149" transform="translate(-73.406 -210.096)"/>
+            <path id="Path_150" d="M287.817 170.642V151h-1.58l-23.171 9.821 23.171 9.821zm0 0" class="cls-2" data-name="Path 150" transform="translate(-230.506 -130.185)"/>
+            <path id="Path_151" d="M0 170.642h1.58l23.171-9.821L1.58 151H0zm0 0" class="cls-2" data-name="Path 151" transform="translate(3 -130.185)"/>
+            <path id="Path_152" d="M0 352.737a1.891 1.891 0 0 0 1.81 1.963H52.5a1.891 1.891 0 0 0 1.81-1.964V331H0zm36.207-15.844a1.891 1.891 0 0 1 1.81-1.964h7.241a1.891 1.891 0 0 1 1.81 1.964v7.857a1.891 1.891 0 0 1-1.81 1.964h-7.24a1.891 1.891 0 0 1-1.81-1.964zm-14.483 0a1.891 1.891 0 0 1 1.81-1.964h7.241a1.891 1.891 0 0 1 1.81 1.964v7.857a1.891 1.891 0 0 1-1.81 1.964h-7.24a1.891 1.891 0 0 1-1.81-1.964zm-14.483 0a1.891 1.891 0 0 1 1.81-1.964h7.241a1.891 1.891 0 0 1 1.81 1.964v7.857a1.891 1.891 0 0 1-1.81 1.964h-7.24a1.891 1.891 0 0 1-1.81-1.964zm0 0" class="cls-2" data-name="Path 152" transform="translate(3 -289.352)"/>
+            <path id="Path_153" d="M330 391h3.972v3.928H330zm0 0" class="cls-2" data-name="Path 153" transform="translate(-287.448 -340.608)"/>
+            <path id="Path_154" d="M210 391h3.972v3.928H210zm0 0" class="cls-2" data-name="Path 154" transform="translate(-181.831 -340.608)"/>
+        </g>
+    </g>
+</svg>

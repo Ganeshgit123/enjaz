@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="202" viewBox="0 0 214 202">
+    <defs>
+        <filter id="Rectangle_278" width="214" height="202" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="10"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Group_421" data-name="Group 421" transform="translate(-278 -547)">
+        <g filter="url(#Rectangle_278)" transform="translate(278 547)">
+            <rect id="Rectangle_278-2" width="154" height="142" fill="#fff" data-name="Rectangle 278" rx="13" transform="translate(30 27)"/>
+        </g>
+        <g id="company" transform="translate(304.978 604)">
+            <path id="Path_190" d="M68.552 181.72c-12.33-.071-22.53-25.242-22.53-38.061 0-20.94 15.708-25.524 21.762-25.524 2.728 0 5.641 1.071 8.211 2.019a18.354 18.354 0 0 0 4.689 1.344 14.59 14.59 0 0 0 3.363-1.09 26.958 26.958 0 0 1 10.138-2.451h.024c2.97 0 11.975.652 17.389 8.782l1.268 1.906-1.825 1.377c-2.607 1.967-7.365 5.556-7.365 12.665 0 8.419 5.388 11.657 7.976 13.215 1.143.687 2.325 1.4 2.325 2.946 0 1.012-8.078 22.746-19.809 22.746a15.931 15.931 0 0 1-6.689-1.624 13.564 13.564 0 0 0-5.954-1.434 15.315 15.315 0 0 0-4.715 1.275 23.093 23.093 0 0 1-8.177 1.908z" data-name="Path 190" transform="translate(0 -98.871)"/>
+            <path id="Path_191" d="M270.719 0c.306 11.016-7.572 18.658-15.441 18.179C253.981 9.388 263.146 0 270.719 0z" data-name="Path 191" transform="translate(-175.292)"/>
+        </g>
+    </g>
+</svg>

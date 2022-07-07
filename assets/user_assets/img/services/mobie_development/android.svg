@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="202" viewBox="0 0 214 202">
+    <defs>
+        <filter id="Rectangle_279" width="214" height="202" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="10"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-2{fill:#8bc34a}
+        </style>
+    </defs>
+    <g id="Group_422" data-name="Group 422" transform="translate(-533 -547)">
+        <g filter="url(#Rectangle_279)" transform="translate(533 547)">
+            <rect id="Rectangle_279-2" width="154" height="142" fill="#fff" data-name="Rectangle 279" rx="13" transform="translate(30 27)"/>
+        </g>
+        <g id="android" transform="translate(570.996 603)">
+            <path id="Path_186" d="M37.235 192.007A5.233 5.233 0 0 0 32 197.238v20.922a5.231 5.231 0 0 0 10.461 0v-20.922a5.233 5.233 0 0 0-5.226-5.231z" class="cls-2" data-name="Path 186" transform="translate(0 -160.622)"/>
+            <path id="Path_187" d="M421.235 192.007a5.233 5.233 0 0 0-5.235 5.231v20.922a5.231 5.231 0 0 0 10.461 0v-20.922a5.233 5.233 0 0 0-5.226-5.231z" class="cls-2" data-name="Path 187" transform="translate(-321.232 -160.622)"/>
+            <path id="Path_188" d="M128 225.247a5.233 5.233 0 0 0 5.231 5.231v10.158a5.231 5.231 0 1 0 10.461 0v-10.158h10.461v10.158a5.231 5.231 0 1 0 10.461 0v-10.158a5.233 5.233 0 0 0 5.231-5.231v-31.384H128z" class="cls-2" data-name="Path 188" transform="translate(-80.308 -162.174)"/>
+            <path id="Path_189" d="M161.983 9.924l4.655-5.644a2.616 2.616 0 0 0-4.033-3.332l-5.089 6.167a20.46 20.46 0 0 0-17.282.063L135.28.984a2.616 2.616 0 1 0-4.085 3.269L135.787 10A20.779 20.779 0 0 0 128 26.155h41.85a20.792 20.792 0 0 0-7.867-16.231zM143.7 18.309a2.615 2.615 0 1 1 2.615-2.615 2.616 2.616 0 0 1-2.615 2.615zm10.461 0a2.615 2.615 0 1 1 2.615-2.615 2.616 2.616 0 0 1-2.618 2.615z" class="cls-2" data-name="Path 189" transform="translate(-80.308)"/>
+        </g>
+    </g>
+</svg>

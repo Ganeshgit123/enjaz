@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+    <defs>
+        <style>
+            .cls-2{fill:#539ddb}
+        </style>
+    </defs>
+    <g id="Group_383" data-name="Group 383" transform="translate(-948 -689)">
+        <circle id="Ellipse_91" cx="22.5" cy="22.5" r="22.5" fill="#ddeff8" data-name="Ellipse 91" transform="translate(948 689)"/>
+        <g id="shapes-and-symbols" transform="translate(958.146 698.145)">
+            <path id="Path_174" d="M255.558 199.012a12.82 12.82 0 0 0-.226-2.4.753.753 0 0 0-.74-.612h-11.839a.753.753 0 0 0-.753.753v4.519a.753.753 0 0 0 .753.753h6.074a6.745 6.745 0 0 1-1.512 1.99l4.257 4.257a12.757 12.757 0 0 0 3.986-9.26z" class="cls-2" data-name="Path 174" transform="translate(-229.848 -186.157)"/>
+            <path id="Path_175" d="M55.275 6.026a6.711 6.711 0 0 1 4.065 1.357.752.752 0 0 0 .985-.07L63.539 4.1a.753.753 0 0 0-.049-1.11 12.79 12.79 0 0 0-18.827 2.657l4.421 4.421a6.781 6.781 0 0 1 6.191-4.042z" class="cls-2" data-name="Path 175" transform="translate(-42.42)"/>
+            <path id="Path_176" d="M55.275 321.568A12.72 12.72 0 0 0 62.937 319l-4.337-4.34a6.748 6.748 0 0 1-9.516-3.16l-4.421 4.421a12.8 12.8 0 0 0 10.612 5.647z" class="cls-2" data-name="Path 176" transform="translate(-42.42 -295.859)"/>
+            <path id="Path_177" d="M6.135 147.167a5.421 5.421 0 0 1 0-2.17l-4.726-4.726a12.688 12.688 0 0 0 0 11.622z" class="cls-2" data-name="Path 177" transform="translate(0 -133.228)"/>
+        </g>
+    </g>
+</svg>
